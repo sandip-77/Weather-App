@@ -53,9 +53,7 @@ window.addEventListener('load' , ()=>{ // here function will be called after the
         });
         
     }
-    // else{
-    //     h1.textContent ="Hey this is not working because ..."
-    // }
+   
 })
 
 
